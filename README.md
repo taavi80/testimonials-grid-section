@@ -10,11 +10,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -26,12 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](design/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://taavi80.github.io/testimonials-grid-section/
 
 ## My process
 
@@ -42,8 +38,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [taavi80](https://www.frontendmentor.io/profile/taavi80)
